@@ -1,1 +1,1 @@
-#Dynamic Quote Genaration
+#Dynamic_Quote_Generator
